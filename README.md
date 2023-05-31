@@ -12,7 +12,7 @@
 
 * The Data was split into two models - Training and testing
 * A logistical regression model was created and the data was fit with original data as well as another logistical regression model was created using random oversampled data and then the model's performance was evaluated. The trained model was used to make the predictions about the data. 
-*
+
 ## Results
 * Machine Learning Model 1:
 
